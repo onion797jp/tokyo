@@ -25,15 +25,16 @@ Actively looking for co-organizers! Send me a DM on Twitter if you are intereste
 3. [IPFS Documentation - Concepts](https://docs.ipfs.io/concepts/)
 4. [ProtoSchool Tutorial - Basics](https://proto.school/#/basics)
 5. [ProtoSchool Tutorial - Decentralized data structures](https://proto.school/#/data-structures)
+6. [Medium - ブロックチェーンに足りないもの](https://medium.com/@onion797jp/ブロックチェーンに足りないもの-e25dd8fc1e01)
 
 ## Events
 
 ### Upcoming
 Please follow [Senshi](https://twitter.com/onion797jp) on Twitter for the latest event info 🙏
-* IPFS Workshop in Osaka (Mon, 7 Oct, 2019)
+* [IPFS Workshop in Osaka](https://ipfs-japan.eventbrite.com) (Mon, 7 Oct, 2019)
   * Dive deeper into how IPFS works under the hood, and how to practically use IPFS in new projects (pinning, libp2p, etc...)
 
-* IPFS Workshop in Tokyo (Sat 12 Oct, 2019)
+* [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (Sat 12 Oct, 2019)
   * Introduction to IPFS and Decentralized Web for complete beginners
 
 ## Code of Conduct
