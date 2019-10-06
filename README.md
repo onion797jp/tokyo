@@ -27,6 +27,14 @@ Actively looking for co-organizers! Send me a DM on Twitter if you are intereste
 5. [ProtoSchool Tutorial - Decentralized data structures](https://proto.school/#/data-structures)
 6. [Medium - ブロックチェーンに足りないもの](https://medium.com/@onion797jp/ブロックチェーンに足りないもの-e25dd8fc1e01)
 
+## Community
+
+Freenode IRC Channel: #ipfs-jp
+
+Or use Riot room linked to the channel from this [link](https://riot.im/app/#/room/#freenode_#ipfs-jp:matrix.org) or QR code.
+
+![ipfs-jp-riot-link-QR](./ipfs-jp-riot-link-QR.png)
+
 ## Events
 
 ### Upcoming
