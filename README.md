@@ -31,7 +31,7 @@ Actively looking for co-organizers! Send me a DM on Twitter if you are intereste
 
 Freenode IRC Channel: #ipfs-jp
 
-Instead, you can use Riot.im linked to the channel from this [link](https://riot.im/app/#/room/#freenode_#ipfs-jp:matrix.org) or a QR code below.
+Instead, you can use [Riot.im](https://about.riot.im/) linked to the channel from this [link](https://riot.im/app/#/room/#freenode_#ipfs-jp:matrix.org) or a QR code below.
 
 ![ipfs-jp-riot-link-QR](./ipfs-jp-riot-link-QR.png)
 
