@@ -4,7 +4,7 @@ Welcome all decentralized web lovers to the Tokyo chapter of [ProtoSchool](https
 
 Tokyo's ProtoSchool Chapter is a group of people passionate about all things enabling **Decentralized Web** and **Web3**.
 
-We mainly focus on protocol and tools (IPFS, libp2p, IPFS, Multiformat, Filecoin) built by [Protocol Labs](https://protocol.ai) and its community groups. We are always open to all decentralized computing, storage, and networking technologies!
+We mainly focus on protocol and tools (IPFS, libp2p, Multiformat, Filecoin) built by [Protocol Labs](https://protocol.ai) and its community groups. We are always open to all decentralized computing, storage, and networking technologies!
 
 Everyone is welcome to join us! Let's learn, teach, and share ideas together! 🙌
 
