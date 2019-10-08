@@ -4,7 +4,7 @@ Welcome all decentralized web lovers to the Tokyo chapter of [ProtoSchool](https
 
 Tokyo's ProtoSchool Chapter is a group of people passionate about all things enabling **Decentralized Web** and **Web3**.
 
-We mainly focus on protocol and tools (IPFS, libp2p, Multiformat, Filecoin) built by [Protocol Labs](https://protocol.ai) and its community groups. We are always open to all decentralized computing, storage, and networking technologies!
+We mainly focus on protocol and tools (IPFS, libp2p, Multiformat, IPLD, Filecoin) built by [Protocol Labs](https://protocol.ai) and its community groups. We are always open to all decentralized computing, storage, and networking technologies!
 
 Everyone is welcome to join us! Let's learn, teach, and share ideas together! 🙌
 
@@ -43,11 +43,15 @@ We use this channnel during our events for Q&A and followups.
 
 ### Upcoming
 Please follow [Senshi](https://twitter.com/onion797jp) on Twitter for the latest event info 🙏
-* [IPFS Workshop in Osaka](https://ipfs-japan.eventbrite.com) (Mon, 7 Oct, 2019)
-  * Dive deeper into how IPFS works under the hood, and how to practically use IPFS in new projects (pinning, libp2p, etc...)
 
 * [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (Sat 12 Oct, 2019)
   * Introduction to IPFS and Decentralized Web for complete beginners
+
+### Completed
+
+* [IPFS Workshop in Osaka](https://ipfs-japan.eventbrite.com) (Mon, 7 Oct, 2019)
+  * Dive deeper into how IPFS works under the hood, and how to practically use IPFS in new projects (pinning, libp2p, etc...)
+
 
 ## Code of Conduct
 
