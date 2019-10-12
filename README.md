@@ -44,7 +44,7 @@ We use this channnel during our events for Q&A and followups.
 ### Upcoming
 Please follow [Senshi](https://twitter.com/onion797jp) on Twitter for the latest event info 🙏
 
-* [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (Sat 12 Oct, 2019)
+* [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (Mon 14 Oct, 2019)
   * Introduction to IPFS and Decentralized Web for complete beginners
 
 ### Completed
