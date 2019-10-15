@@ -37,17 +37,17 @@ Instead, you can use [Riot.im](https://about.riot.im/) linked to the channel fro
 
 ![ipfs-jp-riot-link-QR](./ipfs-jp-riot-link-QR.png)
 
-We use this channnel during our events for Q&A and followups.
+We use this channnel during our events for Q&A, sharing slides and followups.
 
 ## Events
 
 ### Upcoming
 Please follow [Senshi](https://twitter.com/onion797jp) on Twitter for the latest event info 🙏
 
+### Completed
+
 * [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (Mon 14 Oct, 2019)
   * Introduction to IPFS and Decentralized Web for complete beginners
-
-### Completed
 
 * [IPFS Workshop in Osaka](https://ipfs-japan.eventbrite.com) (Mon, 7 Oct, 2019)
   * Dive deeper into how IPFS works under the hood, and how to practically use IPFS in new projects (pinning, libp2p, etc...)
