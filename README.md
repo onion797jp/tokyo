@@ -46,12 +46,19 @@ Please follow [Senshi](https://twitter.com/onion797jp) on Twitter for the latest
 
 ### Completed
 
-* [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (Mon 14 Oct, 2019)
+* Web3財団と学ぶ、次世代のWebとそれを支えるブロックチェーンインフラストラクチャー 公開講座 at [東京大学 ブロックチェーンイノベーション寄付講座](https://www.blockchain.t.u-tokyo.ac.jp/) (20, Jan, 2020)
+  * Introduction to Web3.0 and IPFS and why it matters
+  * Title: Intoro to IPFS - A reference model of Web3.0 ([slides](http://bit.ly/UT_IPFS))
+
+* Guest Lecture at Harvard University (19 Dec, 2019)
+  * IPFS is now one of assignments in a software design course
+  * Presentation about IPFS design, architecture, and community growth (Special thanks to Molly! [@momack28](https://twitter.com/momack28))
+
+* [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (14 Oct, 2019)
   * Introduction to IPFS and Decentralized Web for complete beginners
 
-* [IPFS Workshop in Osaka](https://ipfs-japan.eventbrite.com) (Mon, 7 Oct, 2019)
+* [IPFS Workshop in Osaka](https://ipfs-japan.eventbrite.com) (7 Oct, 2019)
   * Dive deeper into how IPFS works under the hood, and how to practically use IPFS in new projects (pinning, libp2p, etc...)
-
 
 ## Code of Conduct
 
