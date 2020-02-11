@@ -56,7 +56,7 @@ Please follow [Senshi](https://twitter.com/onion797jp) on Twitter for the latest
 
 ### Completed
 
-* Web3財団と学ぶ、次世代のWebとそれを支えるブロックチェーンインフラストラクチャー 公開講座 at [東京大学 ブロックチェーンイノベーション寄付講座](https://www.blockchain.t.u-tokyo.ac.jp/) (20, Jan, 2020)
+* Web3財団と学ぶ、次世代のWebとそれを支えるブロックチェーンインフラストラクチャー 公開講座 at [東京大学 ブロックチェーンイノベーション寄付講座](https://www.blockchain.t.u-tokyo.ac.jp/) (20 Jan, 2020)
   * Introduction to Web3.0 and IPFS and why it matters
   * Title: Intoro to IPFS - A reference model of Web3.0 ([slides](http://bit.ly/UT_IPFS))
 
