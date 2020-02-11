@@ -19,10 +19,11 @@ Our chapter's leadership team includes:
 Actively looking for co-organizers! Send me a DM on Twitter if you are interested in fostering local IPFS community!
 
 ## Latest News
+- Preparing to publish the official IPFS Book in Japanese.
 
-Preparing to publish the official IPFS Book in Japanese.
+- 日本語によるIPFS本の出版に向けてただいま準備中です。関連イベントや勉強会なども開催していく予定ですので、Twitterやこちらのページでお知らせをチェックしてみてください！
 
-日本語によるIPFS本の出版に向けてただいま準備中です。関連イベントや勉強会なども開催していく予定ですので、Twitterやこちらのページでお知らせをチェックしてみてください！
+- 東京大学での講義資料を公開しました。
 
 > *Update: 2020-2-11*
 
