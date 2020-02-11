@@ -18,6 +18,12 @@ Our chapter's leadership team includes:
 
 Actively looking for co-organizers! Send me a DM on Twitter if you are interested in fostering local IPFS community!
 
+## Latest News
+
+Preparing to publish the official IPFS Book in Japanese.
+
+日本語によるIPFS本の出版に向けてただいま準備中です。関連イベントや勉強会なども開催していく予定ですので、Twitterやこちらのページでお知らせをチェックしてみてください！
+
 ## First Steps
 
 1. [Article - "HTTP is obsolete. It's time for the distributed, permanent web"](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
@@ -26,6 +32,7 @@ Actively looking for co-organizers! Send me a DM on Twitter if you are intereste
 4. [ProtoSchool Tutorial - Basics](https://proto.school/#/basics)
 5. [ProtoSchool Tutorial - Decentralized data structures](https://proto.school/#/data-structures)
 6. [Medium - ブロックチェーンに足りないもの](https://medium.com/@onion797jp/ブロックチェーンに足りないもの-e25dd8fc1e01)
+7. [Medium - Web3とは何か？（翻訳版）](https://medium.com/@onion797jp/what-is-web3-japanese-translation-3156d17299b7)
 
 ## Community
 
@@ -51,7 +58,7 @@ Please follow [Senshi](https://twitter.com/onion797jp) on Twitter for the latest
   * Title: Intoro to IPFS - A reference model of Web3.0 ([slides](http://bit.ly/UT_IPFS))
 
 * Guest Lecture at Harvard University (19 Dec, 2019)
-  * IPFS is now one of assignments in a software design course
+  * IPFS is now one of assignments of a software design course
   * Presentation about IPFS design, architecture, and community growth (Special thanks to Molly! [@momack28](https://twitter.com/momack28))
 
 * [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (14 Oct, 2019)
