@@ -24,6 +24,8 @@ Preparing to publish the official IPFS Book in Japanese.
 
 日本語によるIPFS本の出版に向けてただいま準備中です。関連イベントや勉強会なども開催していく予定ですので、Twitterやこちらのページでお知らせをチェックしてみてください！
 
+> *Update: 2020-2-11*
+
 ## First Steps
 
 1. [Article - "HTTP is obsolete. It's time for the distributed, permanent web"](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
