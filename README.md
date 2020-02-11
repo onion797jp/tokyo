@@ -61,7 +61,7 @@ Please follow [Senshi](https://twitter.com/onion797jp) on Twitter for the latest
   * Title: Intoro to IPFS - A reference model of Web3.0 ([slides](http://bit.ly/UT_IPFS))
 
 * Guest Lecture at Harvard University (19 Dec, 2019)
-  * IPFS is now one of assignments of a software design course
+  * IPFS is now one of assignments of the software design course
   * Presentation about IPFS design, architecture, and community growth (Special thanks to Molly! [@momack28](https://twitter.com/momack28))
 
 * [IPFS Workshop in Tokyo](https://neutrino.connpass.com/event/148341) (14 Oct, 2019)
