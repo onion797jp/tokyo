@@ -25,7 +25,8 @@ Actively looking for co-organizers! Send me a DM on Twitter if you are intereste
 
 - 東京大学での講義資料を公開しました。
 
-> *Update: 2020-2-11*
+- レポジトリオーナーになりました。
+> *Update: 2020-May-8*
 
 ## First Steps
 
